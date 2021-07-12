@@ -3,7 +3,7 @@
 
 I'ts a simple lfi finder tool
 
-# TYPE  ---> $ cat lfi.txt | xargs -P60 -n1 bash lfi.sh lf (to run this tool)
+# TYPE  ---> $ cat lfi.txt | xargs -P60 -n1 bash lfi.sh target (to run this tool)
 put your target paramiter in taeget file
 
 
