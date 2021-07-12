@@ -1,5 +1,5 @@
 # 3lfite
-#3rr0r-404
+# 3rr0r-404
 
 I'ts a simple lfi finder tool
 
